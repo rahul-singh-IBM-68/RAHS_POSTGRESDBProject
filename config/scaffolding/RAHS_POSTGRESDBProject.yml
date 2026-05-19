@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/rahul-singh-IBM-68
   gitUsername: rahul-singh-IBM-68
   gitBranch: main
+- name: EmployeePayroll
+  gitServerName: RAHS_GH_IBMAccount
+  gitUrl: https://github.com/rahul-singh-IBM-68
+  gitUsername: rahul-singh-IBM-68
+  gitBranch: main
